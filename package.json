@@ -1,0 +1,33 @@
+{
+  "name": "mean-app-david-acosta-youtube-channel-",
+  "version": "1.0.0",
+  "description": "MEAN Stack app with Angular 2",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siddharthpanda99/MEAN-APP-David-Acosta-youtube-channel-.git"
+  },
+  "keywords": [
+    "Angular",
+    "2",
+    "MEAN",
+    "Stack"
+  ],
+  "author": "Siddharth Paul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/siddharthpanda99/MEAN-APP-David-Acosta-youtube-channel-/issues"
+  },
+  "homepage": "https://github.com/siddharthpanda99/MEAN-APP-David-Acosta-youtube-channel-#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongoose": "^5.0.3",
+    "nodemon": "^1.14.12"
+  },
+  "devDependencies": {
+    "@angular/cli": "^1.6.7"
+  }
+}
